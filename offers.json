@@ -1,0 +1,393 @@
+[
+    {
+        "guid": "1e52ed91-e1bd-4f05-a012-3fbef1f43414",
+        "slug": "elevenlabs-research-engineer-warszawa-ai",
+        "title": "Research Engineer",
+        "requiredSkills": [
+            "Machine Learning",
+            "Research"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 550000,
+                "to": 900000,
+                "currency": "pln",
+                "type": "permanent",
+                "unit": "year",
+                "gross": true,
+                "fromChf": 120083.7,
+                "fromEur": 129023.4,
+                "fromGbp": 112259.95,
+                "fromPln": 550000,
+                "fromUsd": 149865.65,
+                "toChf": 196500.6,
+                "toEur": 211129.2,
+                "toGbp": 183698.1,
+                "toPln": 900000,
+                "toUsd": 245234.7
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "elevenlabs-research-engineer-warszawa-ai",
+                "street": "gen. Micha\u0142a Tokarzewskiego-Karaszewicza 1",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        ],
+        "city": "Warszawa",
+        "street": "gen. Micha\u0142a Tokarzewskiego-Karaszewicza 1",
+        "latitude": "52.2296756",
+        "longitude": "21.0122287",
+        "remoteInterview": true,
+        "companyName": "ElevenLabs",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/UZZEUUEDY7R5oYrUwxq_elc5GaivB8X2LQ2TuZj7Q6w/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/238b80df-3ab2-4217-a5e5-f153377cb4c7.png",
+        "publishedAt": "2025-10-11T14:00:16.730Z",
+        "lastPublishedAt": "2025-07-28T13:34:45.297Z",
+        "expiredAt": "2025-10-15T21:59:59.999Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c1"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "8ea3b671-c0f4-45d0-95e8-19f67ee86bad",
+        "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-warszawa-ai",
+        "title": "AI Engineer \u2013 LLM & Agentic Frameworks",
+        "requiredSkills": [
+            "ChatGPT",
+            "Llama",
+            "DeepSeek"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 30000,
+                "to": 60000,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 6550.02,
+                "fromEur": 7037.64,
+                "fromGbp": 6123.27,
+                "fromPln": 30000,
+                "fromUsd": 8174.49,
+                "toChf": 13100.04,
+                "toEur": 14075.28,
+                "toGbp": 12246.54,
+                "toPln": 60000,
+                "toUsd": 16348.98
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-warszawa-ai",
+                "street": "Remote",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-krakow-ai",
+                "street": "Remote",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-wroclaw-ai",
+                "street": "Remote",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            },
+            {
+                "city": "Pozna\u0144",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-poznan-ai",
+                "street": "Remote",
+                "latitude": 52.4056786,
+                "longitude": 16.9312766
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-gdansk-ai",
+                "street": "Remote",
+                "latitude": 54.3520252,
+                "longitude": 18.6466384
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Remote",
+        "latitude": "52.2296756",
+        "longitude": "21.0122287",
+        "remoteInterview": true,
+        "companyName": "Calimala.ai",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/bGhrTRmo5gou8F-S40IdaWugG3AEaQcC7Ji9esjIMwM/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/f6ab887c-eb1b-492c-8233-8347f5ad4425.png",
+        "publishedAt": "2025-10-13T06:00:17.613Z",
+        "lastPublishedAt": "2025-08-29T05:20:59.142Z",
+        "expiredAt": "2025-11-27T19:59:59.999Z",
+        "openToHireUkrainians": true,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c2"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "e2608fd3-09a4-46c9-80f8-e0d30e346f5d",
+        "slug": "relativity-director-ai-engineering-krakow-ai-087b4b6a",
+        "title": "Director, AI Engineering",
+        "requiredSkills": [
+            "AI",
+            "GDPR",
+            "Machine Learning",
+            "Leadership"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "c_level",
+        "employmentTypes": [
+            {
+                "from": 428000,
+                "to": 642000,
+                "currency": "pln",
+                "type": "permanent",
+                "unit": "year",
+                "gross": true,
+                "fromChf": 93446.952,
+                "fromEur": 100403.664,
+                "fromGbp": 87358.652,
+                "fromPln": 428000,
+                "fromUsd": 116622.724,
+                "toChf": 140170.428,
+                "toEur": 150605.496,
+                "toGbp": 131037.978,
+                "toPln": 642000,
+                "toUsd": 174934.086
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Krak\u00f3w",
+                "slug": "relativity-director-ai-engineering-krakow-ai-087b4b6a",
+                "street": "-",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            },
+            {
+                "city": "Katowice",
+                "slug": "relativity-director-ai-engineering-katowice-ai",
+                "street": "-",
+                "latitude": 50.2648919,
+                "longitude": 19.0237815
+            },
+            {
+                "city": "Bydgoszcz",
+                "slug": "relativity-director-ai-engineering-bydgoszcz-ai",
+                "street": "-",
+                "latitude": 53.1234804,
+                "longitude": 18.0084378
+            },
+            {
+                "city": "Bia\u0142ystok",
+                "slug": "relativity-director-ai-engineering-bialystok-ai",
+                "street": "-",
+                "latitude": 53.1324886,
+                "longitude": 23.1688403
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "relativity-director-ai-engineering-wroclaw-ai",
+                "street": "-",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            },
+            {
+                "city": "Warszawa",
+                "slug": "relativity-director-ai-engineering-warszawa-ai",
+                "street": "-",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "relativity-director-ai-engineering-gdansk-ai",
+                "street": "-",
+                "latitude": 54.3520252,
+                "longitude": 18.6466384
+            }
+        ],
+        "city": "Krak\u00f3w",
+        "street": "-",
+        "latitude": "50.0646501",
+        "longitude": "19.9449799",
+        "remoteInterview": false,
+        "companyName": "Relativity",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/sgtJGGNB2V_cpU_EhIIVAkyKsoZ7jp_3ioYOoGzQk4Y/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png",
+        "publishedAt": "2025-10-12T14:00:16.764Z",
+        "lastPublishedAt": "2025-10-02T13:47:17.911Z",
+        "expiredAt": "2025-11-01T13:47:17.911Z",
+        "openToHireUkrainians": false,
+        "languages": [],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "aee7059e-f181-437f-adb7-6de65a1679d5",
+        "slug": "optiveum-research-team-leader---llm-warszawa-ai",
+        "title": "Research Team Leader - LLM",
+        "requiredSkills": [
+            "AI",
+            "CLIP",
+            "SAM",
+            "PyTorch"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 8000,
+                "to": 12000,
+                "currency": "eur",
+                "type": "permanent",
+                "unit": "month",
+                "gross": true,
+                "fromChf": 7445.672,
+                "fromEur": 8000,
+                "fromGbp": 6960.568,
+                "fromPln": 34102.28,
+                "fromUsd": 9292.28,
+                "toChf": 11168.508,
+                "toEur": 12000,
+                "toGbp": 10440.852,
+                "toPln": 51153.42,
+                "toUsd": 13938.42
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "optiveum-research-team-leader---llm-warszawa-ai",
+                "street": "Krucza 16/22",
+                "latitude": 52.2260597,
+                "longitude": 21.0191371
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Krucza 16/22",
+        "latitude": "52.2260597",
+        "longitude": "21.0191371",
+        "remoteInterview": true,
+        "companyName": "Optiveum",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/TU3OBPEExbLtmD8DjYH-QlZD9poK-qnMiSSUeXwzFiQ/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/fd83039c6251d97e18ca49319813fbd1c0e8ab7c.jpg",
+        "publishedAt": "2025-10-10T09:00:17.623Z",
+        "lastPublishedAt": "2025-09-24T09:26:13.761Z",
+        "expiredAt": "2025-10-25T09:04:28.107Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c1"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "5083bbb0-0e84-4baa-b419-2c1db8022ce8",
+        "slug": "experis-manpower-group-audio-ml-engineer-warszawa-ai",
+        "title": "Audio ML Engineer",
+        "requiredSkills": [
+            "ML",
+            "Voice-based Conversational AI",
+            "GenAI"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 200,
+                "to": 300,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "hour",
+                "gross": false,
+                "fromChf": 43.6668,
+                "fromEur": 46.9176,
+                "fromGbp": 40.8218,
+                "fromPln": 200,
+                "fromUsd": 54.4966,
+                "toChf": 65.5002,
+                "toEur": 70.3764,
+                "toGbp": 61.2327,
+                "toPln": 300,
+                "toUsd": 81.7449
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "experis-manpower-group-audio-ml-engineer-warszawa-ai",
+                "street": "Warszawa",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Warszawa",
+        "latitude": "52.2296756",
+        "longitude": "21.0122287",
+        "remoteInterview": true,
+        "companyName": "Experis Manpower Group",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/WGD_w7nqksMGBBpuz2PiNLlITKcSFFmoktInHWORpyg/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/5e43519a9d231bd8412b7522aa84530b018d93a6.png",
+        "publishedAt": "2025-10-07T07:00:25.754Z",
+        "lastPublishedAt": "2025-09-29T07:02:18.871Z",
+        "expiredAt": "2025-10-29T07:02:18.871Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "en",
+                "level": "b2"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    }
+]
