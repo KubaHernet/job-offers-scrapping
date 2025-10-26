@@ -1,0 +1,838 @@
+[
+    {
+        "guid": "b648a719-4b04-4fa5-87c6-681f4a462582",
+        "slug": "yard-corporate-regional-field-cto-poland-remote--ai",
+        "title": "Regional Field CTO",
+        "requiredSkills": [
+            "Gen AI"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "c_level",
+        "employmentTypes": [
+            {
+                "from": 150000,
+                "to": 220000,
+                "currency": "usd",
+                "type": "b2b",
+                "unit": "year",
+                "gross": false,
+                "fromChf": 119359.65,
+                "fromEur": 129015.6,
+                "fromGbp": 112731.15,
+                "fromPln": 547612.5,
+                "fromUsd": 150000,
+                "toChf": 175060.82,
+                "toEur": 189222.88,
+                "toGbp": 165339.02,
+                "toPln": 803165,
+                "toUsd": 220000
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Poland (Remote)",
+                "slug": "yard-corporate-regional-field-cto-poland-remote--ai",
+                "street": "Poland",
+                "latitude": 51.919438,
+                "longitude": 19.145136
+            }
+        ],
+        "city": "Poland (Remote)",
+        "street": "Poland",
+        "latitude": "51.9194380",
+        "longitude": "19.1451360",
+        "remoteInterview": true,
+        "companyName": "Yard Corporate",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/MELgCvkkNAkK6UZU_EcI3mZ99yIp64bizwrkEjS_vwE/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/ea86064d8b886419dfe629864667675ed7928c2d.png",
+        "publishedAt": "2025-10-22T10:40:28.156Z",
+        "lastPublishedAt": "2025-10-22T10:40:28.156Z",
+        "expiredAt": "2025-11-21T10:40:28.156Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c1"
+            },
+            {
+                "code": "pl",
+                "level": "c1"
+            }
+        ],
+        "applyMethod": "form",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "8ea3b671-c0f4-45d0-95e8-19f67ee86bad",
+        "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-warszawa-ai",
+        "title": "AI Engineer \u2013 LLM & Agentic Frameworks",
+        "requiredSkills": [
+            "Llama",
+            "ChatGPT",
+            "DeepSeek"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 30000,
+                "to": 60000,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 6538.92,
+                "fromEur": 7067.91,
+                "fromGbp": 6175.77,
+                "fromPln": 30000,
+                "fromUsd": 8217.48,
+                "toChf": 13077.84,
+                "toEur": 14135.82,
+                "toGbp": 12351.54,
+                "toPln": 60000,
+                "toUsd": 16434.96
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-warszawa-ai",
+                "street": "Remote",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-krakow-ai",
+                "street": "Remote",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-wroclaw-ai",
+                "street": "Remote",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            },
+            {
+                "city": "Pozna\u0144",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-poznan-ai",
+                "street": "Remote",
+                "latitude": 52.4056786,
+                "longitude": 16.9312766
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-gdansk-ai",
+                "street": "Remote",
+                "latitude": 54.3520252,
+                "longitude": 18.6466384
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Remote",
+        "latitude": "52.2296756",
+        "longitude": "21.0122287",
+        "remoteInterview": true,
+        "companyName": "Calimala.ai",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/bGhrTRmo5gou8F-S40IdaWugG3AEaQcC7Ji9esjIMwM/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/f6ab887c-eb1b-492c-8233-8347f5ad4425.png",
+        "publishedAt": "2025-10-23T06:01:57.057Z",
+        "lastPublishedAt": "2025-08-29T05:20:59.142Z",
+        "expiredAt": "2025-11-27T19:59:59.999Z",
+        "openToHireUkrainians": true,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c2"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "e2608fd3-09a4-46c9-80f8-e0d30e346f5d",
+        "slug": "relativity-director-ai-engineering-krakow-ai-087b4b6a",
+        "title": "Director, AI Engineering",
+        "requiredSkills": [
+            "AI",
+            "Machine Learning",
+            "GDPR",
+            "Leadership"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "c_level",
+        "employmentTypes": [
+            {
+                "from": 428000,
+                "to": 642000,
+                "currency": "pln",
+                "type": "permanent",
+                "unit": "year",
+                "gross": true,
+                "fromChf": 93288.592,
+                "fromEur": 100835.516,
+                "fromGbp": 88107.652,
+                "fromPln": 428000,
+                "fromUsd": 117236.048,
+                "toChf": 139932.888,
+                "toEur": 151253.274,
+                "toGbp": 132161.478,
+                "toPln": 642000,
+                "toUsd": 175854.072
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Krak\u00f3w",
+                "slug": "relativity-director-ai-engineering-krakow-ai-087b4b6a",
+                "street": "-",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            },
+            {
+                "city": "Katowice",
+                "slug": "relativity-director-ai-engineering-katowice-ai",
+                "street": "-",
+                "latitude": 50.2648919,
+                "longitude": 19.0237815
+            },
+            {
+                "city": "Bydgoszcz",
+                "slug": "relativity-director-ai-engineering-bydgoszcz-ai",
+                "street": "-",
+                "latitude": 53.1234804,
+                "longitude": 18.0084378
+            },
+            {
+                "city": "Bia\u0142ystok",
+                "slug": "relativity-director-ai-engineering-bialystok-ai",
+                "street": "-",
+                "latitude": 53.1324886,
+                "longitude": 23.1688403
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "relativity-director-ai-engineering-wroclaw-ai",
+                "street": "-",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            },
+            {
+                "city": "Warszawa",
+                "slug": "relativity-director-ai-engineering-warszawa-ai",
+                "street": "-",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "relativity-director-ai-engineering-gdansk-ai",
+                "street": "-",
+                "latitude": 54.3520252,
+                "longitude": 18.6466384
+            }
+        ],
+        "city": "Krak\u00f3w",
+        "street": "-",
+        "latitude": "50.0646501",
+        "longitude": "19.9449799",
+        "remoteInterview": false,
+        "companyName": "Relativity",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/sgtJGGNB2V_cpU_EhIIVAkyKsoZ7jp_3ioYOoGzQk4Y/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png",
+        "publishedAt": "2025-10-22T14:01:32.400Z",
+        "lastPublishedAt": "2025-10-02T13:47:17.911Z",
+        "expiredAt": "2025-11-01T13:47:17.911Z",
+        "openToHireUkrainians": false,
+        "languages": [],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "5083bbb0-0e84-4baa-b419-2c1db8022ce8",
+        "slug": "experis-manpower-group-audio-ml-engineer-warszawa-ai",
+        "title": "Audio ML Engineer",
+        "requiredSkills": [
+            "ML",
+            "GenAI",
+            "Voice-based Conversational AI"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 200,
+                "to": 300,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "hour",
+                "gross": false,
+                "fromChf": 43.5928,
+                "fromEur": 47.1194,
+                "fromGbp": 41.1718,
+                "fromPln": 200,
+                "fromUsd": 54.7832,
+                "toChf": 65.3892,
+                "toEur": 70.6791,
+                "toGbp": 61.7577,
+                "toPln": 300,
+                "toUsd": 82.1748
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "experis-manpower-group-audio-ml-engineer-warszawa-ai",
+                "street": "Warszawa",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Warszawa",
+        "latitude": "52.2296756",
+        "longitude": "21.0122287",
+        "remoteInterview": true,
+        "companyName": "Experis Manpower Group",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/WGD_w7nqksMGBBpuz2PiNLlITKcSFFmoktInHWORpyg/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/5e43519a9d231bd8412b7522aa84530b018d93a6.png",
+        "publishedAt": "2025-10-23T07:02:06.414Z",
+        "lastPublishedAt": "2025-09-29T07:02:18.871Z",
+        "expiredAt": "2025-10-29T07:02:18.871Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "en",
+                "level": "b2"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "03767a26-ab07-4438-a054-126d20ed829a",
+        "slug": "omnilexia-staff-backend-engineer-with-devops-skills-warszawa-python",
+        "title": "Staff Backend Engineer with DevOps skills",
+        "requiredSkills": [
+            "AWS",
+            "Python",
+            "REST API",
+            "DevOps",
+            "Django Rest Framework",
+            "Terraform",
+            "PostgreSQL",
+            "Microsoft Azure Cloud",
+            "AI"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 35000,
+                "to": 50000,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 7628.74,
+                "fromEur": 8245.895,
+                "fromGbp": 7205.065,
+                "fromPln": 35000,
+                "fromUsd": 9587.06,
+                "toChf": 10898.2,
+                "toEur": 11779.85,
+                "toGbp": 10292.95,
+                "toPln": 50000,
+                "toUsd": 13695.8
+            }
+        ],
+        "categoryId": 5,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-warszawa-python",
+                "street": "plac Defilad 1",
+                "latitude": 52.2322286,
+                "longitude": 21.0082046
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-gdansk-python",
+                "street": "D\u0142ugi Targ 1",
+                "latitude": 54.3483908,
+                "longitude": 18.6527627
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-wroclaw-python",
+                "street": "Rynek, 50-996 Wroc\u0142aw",
+                "latitude": 51.1106992,
+                "longitude": 17.0323662
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-krakow-python",
+                "street": "Rynek G\u0142\u00f3wny 1",
+                "latitude": 50.0613845,
+                "longitude": 19.93636
+            },
+            {
+                "city": "Pozna\u0144",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-poznan-python",
+                "street": "Stary Rynek, 61-772 Pozna\u0144",
+                "latitude": 52.4088499,
+                "longitude": 16.9337748
+            }
+        ],
+        "city": "Warszawa",
+        "street": "plac Defilad 1",
+        "latitude": "52.2322286",
+        "longitude": "21.0082046",
+        "remoteInterview": true,
+        "companyName": "Omnilexia",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/n34KsNo_5qM_JbFVdQfkOfT4EzvjP3LF0I5R28grePw/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/d0d12709-1d39-49f4-b1c2-9f619e38034f.png",
+        "publishedAt": "2025-10-21T12:08:00.337Z",
+        "lastPublishedAt": "2025-10-21T12:08:00.337Z",
+        "expiredAt": "2025-11-20T12:08:00.337Z",
+        "openToHireUkrainians": true,
+        "languages": [
+            {
+                "code": "pl",
+                "level": "c1"
+            },
+            {
+                "code": "en",
+                "level": "b2"
+            }
+        ],
+        "applyMethod": "form",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "731aeee4-3d78-4216-abe6-a8db2e9b694a",
+        "slug": "relativity-principal-engineer-cloud-compute-krakow-python",
+        "title": "Principal Engineer Cloud Compute",
+        "requiredSkills": [
+            "Software Engineering",
+            "Kubernetes",
+            "KEDA",
+            "Azure",
+            "Apache Spark",
+            "Python",
+            "Temporal",
+            "Go"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 394000,
+                "to": 592000,
+                "currency": "pln",
+                "type": "permanent",
+                "unit": "year",
+                "gross": true,
+                "fromChf": 85877.816,
+                "fromEur": 92825.218,
+                "fromGbp": 81108.446,
+                "fromPln": 394000,
+                "fromUsd": 107922.904,
+                "toChf": 129034.688,
+                "toEur": 139473.424,
+                "toGbp": 121868.528,
+                "toPln": 592000,
+                "toUsd": 162158.272
+            }
+        ],
+        "categoryId": 5,
+        "multilocation": [
+            {
+                "city": "Krak\u00f3w",
+                "slug": "relativity-principal-engineer-cloud-compute-krakow-python",
+                "street": "-",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            },
+            {
+                "city": "Katowice",
+                "slug": "relativity-principal-engineer-cloud-compute-katowice-python",
+                "street": "-",
+                "latitude": 50.2648919,
+                "longitude": 19.0237815
+            },
+            {
+                "city": "Bydgoszcz",
+                "slug": "relativity-principal-engineer-cloud-compute-bydgoszcz-python",
+                "street": "-",
+                "latitude": 53.1234804,
+                "longitude": 18.0084378
+            },
+            {
+                "city": "Bia\u0142ystok",
+                "slug": "relativity-principal-engineer-cloud-compute-bialystok-python",
+                "street": "-",
+                "latitude": 53.1324886,
+                "longitude": 23.1688403
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "relativity-principal-engineer-cloud-compute-wroclaw-python",
+                "street": "-",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            },
+            {
+                "city": "Warszawa",
+                "slug": "relativity-principal-engineer-cloud-compute-warszawa-python",
+                "street": "-",
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "relativity-principal-engineer-cloud-compute-gdansk-python",
+                "street": "-",
+                "latitude": 54.3520252,
+                "longitude": 18.6466384
+            }
+        ],
+        "city": "Krak\u00f3w",
+        "street": "-",
+        "latitude": "50.0646501",
+        "longitude": "19.9449799",
+        "remoteInterview": false,
+        "companyName": "Relativity",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/sgtJGGNB2V_cpU_EhIIVAkyKsoZ7jp_3ioYOoGzQk4Y/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png",
+        "publishedAt": "2025-10-22T14:01:32.400Z",
+        "lastPublishedAt": "2025-10-02T13:50:30.613Z",
+        "expiredAt": "2025-11-01T13:50:30.613Z",
+        "openToHireUkrainians": false,
+        "languages": [],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "6c1a92c8-533d-4076-9722-99203b59e6eb",
+        "slug": "humanit-ai-agent-engineer-integrations--wroclaw-ai",
+        "title": "AI Agent Engineer (Integrations)",
+        "requiredSkills": [
+            "AI Agents",
+            "Python",
+            "Problem Solving / Autonomy",
+            "LLMs",
+            "Software Architecture",
+            "API",
+            "System Design"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 8000,
+                "to": 13500,
+                "currency": "usd",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 6365.848,
+                "fromEur": 6880.832,
+                "fromGbp": 6012.328,
+                "fromPln": 29206,
+                "fromUsd": 8000,
+                "toChf": 10742.3685,
+                "toEur": 11611.404,
+                "toGbp": 10145.8035,
+                "toPln": 49285.125,
+                "toUsd": 13500
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "humanit-ai-agent-engineer-integrations--wroclaw-ai",
+                "street": "D\u0105browskiego 44",
+                "latitude": 51.1092948,
+                "longitude": 17.0386019
+            }
+        ],
+        "city": "Wroc\u0142aw",
+        "street": "D\u0105browskiego 44",
+        "latitude": "51.1092948",
+        "longitude": "17.0386019",
+        "remoteInterview": true,
+        "companyName": "Humanit",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/EM277_dWaYdqFY1ztRn3hGpDgCa5d2MqL5ZnhK_FIj8/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/fc48eb32-73f6-48b2-8644-ca1f02949f25.jpg",
+        "publishedAt": "2025-10-23T10:02:01.531Z",
+        "lastPublishedAt": "2025-08-29T09:33:26.183Z",
+        "expiredAt": "2025-11-27T09:33:26.183Z",
+        "openToHireUkrainians": true,
+        "languages": [
+            {
+                "code": "en",
+                "level": "c1"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "ac0d2f7e-94b1-4a17-b9c1-ca5fff9ee2c8",
+        "slug": "kalepa-senior-backend-data-engineer-warszawa-python",
+        "title": "Senior Backend Engineer",
+        "requiredSkills": [
+            "REST API",
+            "Python",
+            "SQL",
+            "AWS"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 8500,
+                "to": 13000,
+                "currency": "usd",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 6763.7135,
+                "fromEur": 7310.884,
+                "fromGbp": 6388.0985,
+                "fromPln": 31031.375,
+                "fromUsd": 8500,
+                "toChf": 10344.503,
+                "toEur": 11181.352,
+                "toGbp": 9770.033,
+                "toPln": 47459.75,
+                "toUsd": 13000
+            }
+        ],
+        "categoryId": 5,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "kalepa-senior-backend-data-engineer-warszawa-python",
+                "street": "Aleje Jerozilimskie 4",
+                "latitude": 52.232845,
+                "longitude": 21.024015
+            },
+            {
+                "city": "Lublin",
+                "slug": "kalepa-senior-backend-data-engineer-lublin-python-b6cf5e57",
+                "street": "centrum",
+                "latitude": 51.2509458,
+                "longitude": 22.5747275
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "kalepa-senior-backend-data-engineer-wroclaw-python",
+                "street": "-",
+                "latitude": 51.1078852,
+                "longitude": 17.0385376
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "kalepa-senior-backend-data-engineer-krakow-python-9858dac5",
+                "street": "-",
+                "latitude": 50.0646501,
+                "longitude": 19.9449799
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Aleje Jerozilimskie 4",
+        "latitude": "52.2328450",
+        "longitude": "21.0240150",
+        "remoteInterview": true,
+        "companyName": "Kalepa",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/mLUAfc9ChrTWlfPMZ0RO7FtoTq0bnNKHLuBzvD-IliA/h:200/w:200/plain/https://imgproxy.justjoinit.tech/5JSVswqk7StTtcUO01zsYHgPEjxgz69t0HvDsKHVt7E/h:200/w:200/plain/https://imgproxy.justjoinit.tech/hGBFUXkxSypGD_vgjY9_WbbHyHtpIetHnVt8kL50pVY/h:200/w:200/plain/https://imgproxy.justjoinit.tech/TWI4QTVH9dS0PdgmKUkvYhRPPnGKYqkwdvNJYnWc-b0/h:200/w:200/plain/https://public.justjoin.it/offers/company_logos/thumb_x2/5f4f43e3e3e21f58780589a75f2c18fb45db1444.png",
+        "publishedAt": "2025-10-24T15:01:50.398Z",
+        "lastPublishedAt": "2024-11-14T20:01:12.535Z",
+        "expiredAt": "2025-12-15T14:55:26.234Z",
+        "openToHireUkrainians": true,
+        "languages": [],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "41e853bf-511a-4d2f-89ba-2c927a3a0aa3",
+        "slug": "kalepa-senior-machine-learning-engineer-warszawa-python",
+        "title": "Senior Machine Learning Engineer",
+        "requiredSkills": [
+            "Machine Learning",
+            "Python",
+            "SQL",
+            "AWS"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 8500,
+                "to": 13000,
+                "currency": "usd",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 6763.7135,
+                "fromEur": 7310.884,
+                "fromGbp": 6388.0985,
+                "fromPln": 31031.375,
+                "fromUsd": 8500,
+                "toChf": 10344.503,
+                "toEur": 11181.352,
+                "toGbp": 9770.033,
+                "toPln": 47459.75,
+                "toUsd": 13000
+            }
+        ],
+        "categoryId": 5,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "kalepa-senior-machine-learning-engineer-warszawa-python",
+                "street": "Aleje Jerozolimskie 4",
+                "latitude": 52.232845,
+                "longitude": 21.024015
+            },
+            {
+                "city": "Katowice",
+                "slug": "kalepa-senior-machine-learning-engineer-katowice-python-c170b804",
+                "street": "centrum",
+                "latitude": 50.2648919,
+                "longitude": 19.0237815
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "kalepa-senior-machine-learning-engineer-wroclaw-python",
+                "street": "centrum",
+                "latitude": 51.1078852,
+                "longitude": 17.0385376
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "kalepa-senior-machine-learning-engineer-krakow-python-7a37ec89",
+                "street": "centrum",
+                "latitude": 50.0591121,
+                "longitude": 19.9378922
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Aleje Jerozolimskie 4",
+        "latitude": "52.2328450",
+        "longitude": "21.0240150",
+        "remoteInterview": true,
+        "companyName": "Kalepa",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/zTxB_hS55IXnxruMd6eQ8LsiAnX0n1J5zKeHiKf983E/h:200/w:200/plain/https://imgproxy.justjoinit.tech/yeXML2kNGQqxlFy4UmO6csGllNunv8O5UaDmwpsst60/h:200/w:200/plain/https://imgproxy.justjoinit.tech/Sui8hKjASUsWnaQxr2PAtJOlU465YqKh-igraA7i9iI/h:200/w:200/plain/https://public.justjoin.it/offers/company_logos/thumb_x2/50d2861572920e1988b6af8ba8bc17ab2ee43de9.png",
+        "publishedAt": "2025-10-22T08:01:28.191Z",
+        "lastPublishedAt": "2024-11-14T20:01:20.509Z",
+        "expiredAt": "2025-12-15T14:55:45.937Z",
+        "openToHireUkrainians": true,
+        "languages": [],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "a6de9c08-8e1b-4f66-8e6d-235e63dc2e4d",
+        "slug": "rtb-house-senior-technical-researcher-engineer-warszawa-ai",
+        "title": "Senior Technical Researcher/Engineer",
+        "requiredSkills": [
+            "Python",
+            "AI",
+            "Design Patterns"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 35000,
+                "to": 47000,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 7628.74,
+                "fromEur": 8245.895,
+                "fromGbp": 7205.065,
+                "fromPln": 35000,
+                "fromUsd": 9587.06,
+                "toChf": 10244.308,
+                "toEur": 11073.059,
+                "toGbp": 9675.373,
+                "toPln": 47000,
+                "toUsd": 12874.052
+            }
+        ],
+        "categoryId": 25,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "rtb-house-senior-technical-researcher-engineer-warszawa-ai",
+                "street": "Pu\u0142awska 182",
+                "latitude": 52.1817126,
+                "longitude": 21.0219945
+            }
+        ],
+        "city": "Warszawa",
+        "street": "Pu\u0142awska 182",
+        "latitude": "52.1817126",
+        "longitude": "21.0219945",
+        "remoteInterview": false,
+        "companyName": "RTB House",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/nyHWI10zjofC6LVFdyaMSvwxDmS_SqgF8fj1si9RLKo/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/1760960198_019a016838df7819828c370a4910d05f.png",
+        "publishedAt": "2025-10-23T11:44:07.107Z",
+        "lastPublishedAt": "2025-10-23T11:44:07.107Z",
+        "expiredAt": "2025-11-20T22:59:59.999Z",
+        "openToHireUkrainians": false,
+        "languages": [
+            {
+                "code": "pl",
+                "level": "b2"
+            }
+        ],
+        "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    }
+]

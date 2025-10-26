@@ -1,0 +1,177 @@
+{
+    "jobBoard": "justjoinit",
+    "id": "03767a26-ab07-4438-a054-126d20ed829a",
+    "planKey": "enterprise_2023_Q2",
+    "title": "Staff Backend Engineer with DevOps skills",
+    "slug": "omnilexia-staff-backend-engineer-with-devops-skills-poznan-python",
+    "shortTitle": "Staff Backend Engineer with DevOps skills",
+    "body": "<p class=\"editor-paragraph\"><strong>Omnilexia</strong> tworzy przysz\u0142o\u015b\u0107 LegalTech, rozwijaj\u0105c innowacyjn\u0105 aplikacj\u0119 wspieran\u0105 przez AI, kt\u00f3ra zmienia spos\u00f3b pracy prawnik\u00f3w i kancelarii. Nasz system wykorzystuje wyszukiwanie semantyczne i najnowsze osi\u0105gni\u0119cia w dziedzinie modeli j\u0119zykowych, by upro\u015bci\u0107 i przyspieszy\u0107 analiz\u0119 przepis\u00f3w oraz redagowanie pism prawnych.</p><p><br></p><p class=\"editor-paragraph\">Szukamy <strong>Staff Backend Engineer with DevOps skills</strong>, kt\u00f3ry b\u0119dzie rozwija\u0107 infrastruktur\u0119 i backend naszej platformy, przetwarza\u0107 du\u017ce wolumeny danych prawnych oraz budowa\u0107 niezawodne, skalowalne i wydajne API zasilaj\u0105ce frontend i modele ML. </p><p><br></p><p class=\"editor-paragraph\">Je\u015bli jeste\u015b specjalist\u0105 DevOps z dobr\u0105 znajomo\u015bci\u0105 technologii backend, to ta oferta te\u017c jest dla Ciebie. Je\u015bli masz mniejsze do\u015bwiadczenie (na poziomie mid/senior) to pode\u015blij CV na careers(at)omnilexia.pl. </p><p><br></p><p class=\"ql-header-3\"><strong>Twoje zadania:</strong></p><ul><li><p class=\"editor-paragraph\">Projektowanie i rozw\u00f3j us\u0142ug backendowych w Pythonie, g\u0142\u00f3wnie w architekturze asynchronicznej (Django, FastApi, Flask etc.)</p></li><li><p class=\"editor-paragraph\">Tworzenie i rozw\u00f3j interfejs\u00f3w REST API u\u017cywanych przez frontend i systemy ML</p></li><li><p class=\"editor-paragraph\">Projektowanie schemat\u00f3w danych i zapyta\u0144 SQL (PostgreSQL), optymalizacja zapyta\u0144, migracje danych</p></li><li><p class=\"editor-paragraph\">Wsp\u00f3\u0142praca z zespo\u0142em ML przy tworzeniu pipelines do przetwarzania i indeksowania danych (np. dokument\u00f3w prawnych, orzecznictwa)</p></li><li><p class=\"editor-paragraph\">Budowa i optymalizacja proces\u00f3w ETL oraz integracja danych z zewn\u0119trznych \u017ar\u00f3de\u0142 (API, scraping)</p></li><li><p class=\"editor-paragraph\">Wdra\u017canie rozwi\u0105za\u0144 backendowych w \u015brodowiskach chmurowych (GCP / AWS / Azure)</p><p><br></p></li></ul><p class=\"ql-header-3\"><strong>Nasze oczekiwania:</strong></p><ul><li><p class=\"editor-paragraph\">Minimum <strong>8 lat do\u015bwiadczenia</strong> jako Backend Engineer</p></li><li><p class=\"editor-paragraph\">Minimum <strong>3 lata do\u015bwiadczenia z technologiami DevOps</strong></p></li><li><p class=\"editor-paragraph\">Bieg\u0142a znajomo\u015b\u0107 <strong>Pythona</strong> i do\u015bwiadczenie z frameworkami webowymi (FastAPI, Flask, Django)</p></li><li><p class=\"editor-paragraph\">Bardzo dobra znajomo\u015b\u0107 <strong>baz danych SQL</strong>, w szczeg\u00f3lno\u015bci PostgreSQL</p></li><li><p class=\"editor-paragraph\">Do\u015bwiadczenie w projektowaniu i wdra\u017caniu <strong>REST API</strong></p></li><li><p class=\"editor-paragraph\">Znajomo\u015b\u0107 zasad <strong>architektur asynchronicznych</strong> i praktyczne wykorzystanie ich w projektach produkcyjnych</p></li><li><p class=\"editor-paragraph\">Solidne, praktyczne do\u015bwiadczenie z infrastruktur\u0105 chmurow\u0105 (preferowany AWS lub/i Azure)</p></li><li><p class=\"editor-paragraph\">Prowizjonowanie, zarz\u0105dzanie i zabezpieczanie us\u0142ug takich jak EC2, S3, RDS, Lambda, IAM, CloudWatch itp.</p></li><li><p class=\"editor-paragraph\">Do\u015bwiadczenie produkcyjne z Terraform (lub podobnymi narz\u0119dziami IaC) - pisanie i utrzymywanie modu\u0142owego, wielokrotnego u\u017cycia kodu infrastruktury.</p></li><li><p class=\"editor-paragraph\">Do\u015bwiadczenie w budowaniu i utrzymaniu CI/CD (np. GitHub Actions, GitLab CI).</p></li><li><p class=\"editor-paragraph\">Znajomo\u015b\u0107 konteneryzacji (Docker) oraz podstaw orkiestracji (mile widziany Kubernetes).</p></li><li><p class=\"editor-paragraph\">Do\u015bwiadczenie w pracy z narz\u0119dziami monitoringu i logowania (np. Sentry, Datadog, CloudWatch).</p></li><li><p class=\"editor-paragraph\">Polski na poziomie pozwalaj\u0105cym na uczestniczenie w dyskusjach merytorycznych i zrozumienie tre\u015bci specjalistycznych</p></li><li><p class=\"editor-paragraph\">Angielski na poziomie pozwalaj\u0105cym na p\u0142ynn\u0105 prac\u0119 i komunikacj\u0119 z zespo\u0142em</p></li></ul><p><br></p><p class=\"ql-header-3\"><strong>Mile widziane:</strong></p><ul><li><p class=\"editor-paragraph\">Znajomo\u015b\u0107 rynku LegalTech lub wcze\u015bniejsza praca z dokumentami prawnymi.</p></li><li><p class=\"editor-paragraph\">Do\u015bwiadczenie w <strong>scrapingu danych</strong> z trudnych \u017ar\u00f3de\u0142 (paginacje, CAPTCHA, zmienne struktury danych)</p></li><li><p class=\"editor-paragraph\">Praktyka w pracy z du\u017cymi zbiorami danych tekstowych lub systemami klasy dokumentowej</p></li></ul><p><br></p><p class=\"ql-header-3\"><strong>Dlaczego warto z nami pracowa\u0107:</strong></p><ul><li><p class=\"editor-paragraph\"><strong>Umowa B2B</strong>, <strong>ca\u0142kowite miesi\u0119czne wynagrodzenie</strong>: <strong>35\u201350k PLN (podstawa, bonus, ESOP)</strong></p></li><li><p class=\"editor-paragraph\"><strong>Udzia\u0142y w firmie (ESOP)</strong> \u2013 dostosowane do Twojej roli, wk\u0142adu oraz poziomu wynagrodzenia bazowego</p></li><li><p class=\"editor-paragraph\"><strong>Realny wp\u0142yw na produkt</strong> \u2013 widzisz efekt swojej pracy od pierwszych dni.</p></li><li><p class=\"editor-paragraph\"><strong>100% zdalnie</strong> \u2013 elastyczne godziny, zero mikrozarz\u0105dzania.</p></li><li><p class=\"editor-paragraph\">Bud\u017cet rozwojowy (szkolenia, ksi\u0105\u017cki, konferencje), opieka zdrowotna Luxmed, dofinansowanie do si\u0142owni lub czego tylko potrzebujesz, by dobrze Ci si\u0119 pracowa\u0142o.</p></li><li><p class=\"editor-paragraph\">W przysz\u0142o\u015bci: mo\u017cliwo\u015b\u0107 pracy w biurze w Warszawie (opcjonalnie).</p></li></ul><p><br></p><p class=\"ql-header-3\"><strong>Proces rekrutacyjny:</strong></p><ol><li><p class=\"editor-paragraph\">Rozmowa techniczna (rozmowa o Twoich projektach, decyzjach architektonicznych)</p></li><li><p class=\"editor-paragraph\">Live coding/case study lub p\u0142atny okres pr\u00f3bny \"po godzinach\"</p></li><li><p class=\"editor-paragraph\">Mo\u017cliwo\u015b\u0107 rozmowy z dowoln\u0105 osob\u0105 z zespo\u0142u (chcemy, \u017ceby\u015b wiedzia\u0142_a, z kim pracujesz)</p></li><li><p class=\"editor-paragraph\">Przedstawienie referencji od poprzednich wsp\u00f3\u0142pracownik\u00f3w/manager\u00f3w</p></li></ol><p><br></p><p class=\"ql-header-3\"><strong>Kilka s\u0142\u00f3w o nas:</strong></p><p class=\"editor-paragraph\">Jeste\u015bmy ma\u0142ym, multidyscyplinarnym zespo\u0142em, \u0142\u0105czymy kompetencje z zakresu ML, backend, DevOps, UX oraz szeroko poj\u0119tego prawa.</p><p class=\"editor-paragraph\">Cenimy<strong> </strong>odpowiedzialno\u015b\u0107, jasn\u0105 komunikacj\u0119, nastawienie na warto\u015b\u0107 dla u\u017cytkownika. Pracujemy szybko, ale zwracamy uwag\u0119 \u017ceby nasza praca mia\u0142a sens i \u017ceby\u015bmy nie robili nie potrzebnych rzeczy. Nie boimy si\u0119 eksperymentowa\u0107, ale wszystko co tworzymy ma sens biznesowy. Tworzymy \u015brodowisko, w kt\u00f3rym mo\u017cesz si\u0119 rozwija\u0107, wychodzi\u0107 poza swoj\u0105 rol\u0119 i mie\u0107 wp\u0142yw na kierunek produktu.</p>",
+    "workplaceType": "remote",
+    "workingTime": "full_time",
+    "experienceLevel": "senior",
+    "informationClause": "Please be informed that the data controller is Omnilexia P. S. A. (hereinafter \"controller\"). You have the right to request access to your personal data, their rectification, erasure or restriction of processing, the right to object to processing, as well as the right to data portability and to lodge a complaint to the supervisory authority. Personal data will be processed for the purpose of the recruitment process. Provision of data to the extent resulting from the Act of 26 June 1974 Labour Code is mandatory. In the remaining scope, providing data is voluntary. Refusal to provide mandatory data may result in the impossibility to carry out the recruitment process. The Administrator processes mandatory data on the basis of a legal obligation incumbent upon him/her, while with regard to additional data, the basis for processing is consent. Personal data will be processed until the recruitment procedure is completed and for the period of the possibility of asserting potential claims, and in the case of consent to participate in future recruitment procedures - until the withdrawal of such consent. Consent to the processing of personal data can be withdrawn at any time. The recipient of the data is the Just Join IT service and other entities to whom we have entrusted the processing of data in connection with recruitment.",
+    "lastPublishedAt": "2025-10-21T12:08:00.33749Z",
+    "hiringCompany": {
+        "name": "Omnilexia",
+        "url": "https://omnilexia.com",
+        "size": "11-25",
+        "shortName": "Omnilexia",
+        "logoUrl": "https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/d0d12709-1d39-49f4-b1c2-9f619e38034f.png",
+        "logoUrlThumb": "https://imgproxy.justjoinit.tech/n34KsNo_5qM_JbFVdQfkOfT4EzvjP3LF0I5R28grePw/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/d0d12709-1d39-49f4-b1c2-9f619e38034f.png",
+        "type": null
+    },
+    "apply": {
+        "url": null,
+        "email": "jan.maka@omnilexia.com"
+    },
+    "company": {
+        "id": "cee877b9-f5c1-48eb-972d-2f91c153b35d",
+        "name": "Omnilexia",
+        "pipeDriveOwner": "Krzysztof Molenda",
+        "customerSuccessFullName": "Micha\u0142 Szum"
+    },
+    "publicTags": [
+        {
+            "key": "open_to_hire_ukrainians"
+        },
+        {
+            "key": "remote_interview"
+        }
+    ],
+    "categories": [
+        {
+            "key": "python"
+        }
+    ],
+    "requirements": [
+        {
+            "skillId": "087b9b7b-3d28-4b4a-82a1-ce8f9b91690b",
+            "skillName": "AWS",
+            "level": 5,
+            "ordinal": 0,
+            "required": true
+        },
+        {
+            "skillId": "1034603d-9678-4671-9903-a09797089fda",
+            "skillName": "DevOps",
+            "level": 4,
+            "ordinal": 1,
+            "required": true
+        },
+        {
+            "skillId": "1e39ca32-29ba-4813-b762-3218a5391950",
+            "skillName": "PostgreSQL",
+            "level": 4,
+            "ordinal": 2,
+            "required": true
+        },
+        {
+            "skillId": "4895711f-9a55-4045-98b3-63bbaf9ccd84",
+            "skillName": "AI",
+            "level": 1,
+            "ordinal": 3,
+            "required": true
+        },
+        {
+            "skillId": "81e4934d-7942-4f0c-8076-a2ebe7f6e923",
+            "skillName": "REST API",
+            "level": 5,
+            "ordinal": 4,
+            "required": true
+        },
+        {
+            "skillId": "953ee24d-22cf-4a46-8085-eddd32cb84e5",
+            "skillName": "Terraform",
+            "level": 4,
+            "ordinal": 5,
+            "required": true
+        },
+        {
+            "skillId": "bafc7734-43d5-4a8f-9815-bff51fdd072c",
+            "skillName": "Microsoft Azure Cloud",
+            "level": 1,
+            "ordinal": 6,
+            "required": true
+        },
+        {
+            "skillId": "dd0f7665-edbe-4867-ba5f-f691680c8377",
+            "skillName": "Django Rest Framework",
+            "level": 4,
+            "ordinal": 7,
+            "required": true
+        },
+        {
+            "skillId": "e07ae37c-51da-4b35-b067-0e7f95d61039",
+            "skillName": "Python",
+            "level": 5,
+            "ordinal": 8,
+            "required": true
+        }
+    ],
+    "locations": [
+        {
+            "id": "46807089-7c12-469b-8f80-e09b94be9036",
+            "countryCode": "PL",
+            "street": "plac Defilad 1",
+            "city": "Warszawa",
+            "geoCoordinates": {
+                "latitude": 52.2322286,
+                "longitude": 21.0082046
+            }
+        },
+        {
+            "id": "fdc2f41a-b153-4837-b637-aa6f20aa3011",
+            "countryCode": "PL",
+            "street": "D\u0142ugi Targ 1",
+            "city": "Gda\u0144sk",
+            "geoCoordinates": {
+                "latitude": 54.3483908,
+                "longitude": 18.6527627
+            }
+        },
+        {
+            "id": "79b3110f-53ac-48cc-9867-8b408f2ecd40",
+            "countryCode": "PL",
+            "street": "Rynek, 50-996 Wroc\u0142aw",
+            "city": "Wroc\u0142aw",
+            "geoCoordinates": {
+                "latitude": 51.1106992,
+                "longitude": 17.0323662
+            }
+        },
+        {
+            "id": "e8ba4be1-4dfe-4382-be83-02984eba92d6",
+            "countryCode": "PL",
+            "street": "Rynek G\u0142\u00f3wny 1",
+            "city": "Krak\u00f3w",
+            "geoCoordinates": {
+                "latitude": 50.0613845,
+                "longitude": 19.93636
+            }
+        },
+        {
+            "id": "8eaf960b-f044-4ccc-8878-550c6162d9ed",
+            "countryCode": "PL",
+            "street": "Stary Rynek, 61-772 Pozna\u0144",
+            "city": "Pozna\u0144",
+            "geoCoordinates": {
+                "latitude": 52.4088499,
+                "longitude": 16.9337748
+            }
+        }
+    ],
+    "employmentTypes": [
+        {
+            "type": "b2b",
+            "currency": "PLN",
+            "amountType": "net",
+            "currencySource": "original",
+            "salary": {
+                "from": 35000,
+                "to": 50000,
+                "unit": "month"
+            },
+            "order": 1
+        }
+    ]
+}

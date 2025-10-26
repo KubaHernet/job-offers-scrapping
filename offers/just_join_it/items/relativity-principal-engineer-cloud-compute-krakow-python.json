@@ -1,0 +1,183 @@
+{
+    "jobBoard": "justjoinit",
+    "id": "731aeee4-3d78-4216-abe6-a8db2e9b694a",
+    "planKey": "enterprise_2023_Q2",
+    "title": "Principal Engineer Cloud Compute",
+    "slug": "relativity-principal-engineer-cloud-compute-krakow-python",
+    "shortTitle": "Principal Engineer Cloud Compute",
+    "body": "<p class=\"editor-paragraph\"><strong><em>Job Overview</em></strong></p><p class=\"editor-paragraph\">Here at Relativity we prioritize flexibility and work-life harmony. Our Hybrid work environment provides options tailored to your role and location, aiming to enhance engagement, connectivity, and productivity.Join us to experience a culture of collaboration and innovation, where connecting in-person adds value to our collective growth. Let's work together!As a Principal Software Engineer on the Compute team within the Infrastructure Services group, you will be the strategic and technical authority responsible for defining the future of compute infrastructure in RelativityOne. You will architect unified execution models for microservices, batch jobs, streaming pipelines, and long-running workflows\u2014leveraging Azure-native technologies such as AKS (Kubernetes), KEDA, Temporal, and Apache Spark. You will shape cross-cutting platform architecture, influencing compute, storage, observability, and developer experience. Partnering with engineering leadership and platform stakeholders, you\u2019ll drive Relativity\u2019s transition toward cloud-native, scalable, and developer-optimized compute platforms that power a wide range of use cases across the company.</p><p><br></p><p><br></p><p class=\"editor-paragraph\"><strong><em>Job Description and Requirements</em></strong></p><p><br></p><p class=\"editor-paragraph\"><strong>Job Responsibilities:</strong>&nbsp;</p><ul><li><p class=\"editor-paragraph\">Define and evolve the technical strategy for Relativity\u2019s compute platform, enabling scale, elasticity, and resilience across all workload types&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Architect foundational cloud-native execution layers supporting long-running workflows, real-time stream processing, and large-scale batch jobs&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Drive platform-wide adoption of Kubernetes, KEDA, and Temporal for robust and observable orchestration of compute workloads&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Integrate modern data processing technologies like Apache Spark, Azure Stream Analytics, and event-driven patterns across product services&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Lead multi-team initiatives to decouple legacy workloads into scalable microservices, containers, or serverless compute&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Partner with product and platform architects to align compute platform direction with customer, compliance, and reliability goals&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Mentor Staff and Lead Engineers across the company on scalable system design, cloud-native operations, and compute strategies&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Actively contribute to architecture reviews, RFCs, design governance, and strategic planning cycles&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Champion platform quality, security, and developer experience as first-class goals&nbsp;</p></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Minimum Qualifications:</strong></p><ul><li><p class=\"editor-paragraph\">10+ years of experience in software, platform, or infrastructure engineering roles, with demonstrated architectural leadership</p></li></ul><ul><li><p class=\"editor-paragraph\">Proven success designing and operating large-scale Kubernetes-based compute infrastructure in production&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Strong experience with orchestration frameworks such as KEDA, Temporal, or similar job/workflow engines&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Hands-on experience with batch (e.g., Apache Spark) and streaming systems (e.g., Kafka, Flink, Azure Event Hubs)&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Fluency in multiple programming languages (e.g., Go, Python, C#, Rust) and infrastructure-as-code tooling (e.g., Terraform, Pulumi)&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Deep understanding of workload autoscaling, distributed system patterns, and compute security best practices&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Experience collaborating across multiple engineering teams and influencing broad platform strategy</p></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Preferred Qualifications:</strong>&nbsp;</p><ul><li><p class=\"editor-paragraph\">Experience building internal compute platforms or \"platform-as-a-product\" offerings&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Knowledge of serverless platforms such as Azure Functions or Azure Container Apps&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Familiarity with Dapr, KEDA Scalers, and emerging workload runtime frameworks (e.g., Wasm, Nomad, OpenFaaS)&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Prior contributions to open-source cloud-native or CNCF projects&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Experience designing systems with multi-region, multi-tenancy, or zero-downtime execution requirements&nbsp;</p></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Leadership Expectations:</strong></p><ul><li><p class=\"editor-paragraph\">Set the long-term vision for compute infrastructure at Relativity, aligning technical direction with business growth&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Influence engineering and product teams through clear communication, architectural guidance, and technical credibility&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Lead complex cross-functional efforts that span compute, data, security, and reliability&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Create a culture of engineering excellence, experimentation, and continuous improvement&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Mentor senior technical talent and foster a platform-minded, service-oriented engineering culture&nbsp;</p></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Competencies and Skills:</strong></p><ul><li><p class=\"editor-paragraph\">Architectural Vision \u2013 Ability to define and communicate the long-term compute strategy that supports diverse workload needs&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Technical Leadership \u2013 Deep technical authority that guides teams, resolves ambiguity, and de-risks large initiatives&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Cross-Functional Influence \u2013 Works effectively with leaders across platform, product, and infrastructure groups&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Cloud-Native Execution \u2013 Expert in modern compute orchestration, scaling, and event-driven workloads on Azure&nbsp;</p></li></ul><ul><li><p class=\"editor-paragraph\">Innovation and Pragmatism \u2013 Balances cutting-edge solutions with production-ready practices and customer needs&nbsp;</p></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Benefit Highlights:</strong></p><ul><li><p class=\"editor-paragraph\">Comprehensive health, dental, and vision plans</p></li><li><p class=\"editor-paragraph\">Parental leave for primary and secondary caregivers</p></li><li><p class=\"editor-paragraph\">Flexible work arrangements</p></li><li><p class=\"editor-paragraph\">Two, week-long company breaks per year</p></li><li><p class=\"editor-paragraph\">Unlimited time off</p></li><li><p class=\"editor-paragraph\">Long-term incentive program</p></li><li><p class=\"editor-paragraph\">Training investment program</p></li></ul><p><br></p><p class=\"editor-paragraph\">All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.</p><p class=\"editor-paragraph\">&nbsp;</p><p><br></p><p><br></p><p class=\"editor-paragraph\"><strong>Relativity is committed to competitive, fair, and equitable compensation practices.</strong></p><p><br></p><p><br></p><p class=\"editor-paragraph\">This position is eligible for total compensation which includes a competitive base salary, an annual performance bonus, and long-term incentives.</p><p class=\"editor-paragraph\">The expected salary range for this role is between following values:</p><p class=\"editor-paragraph\">394,000 and 592,000PLN</p><p><br></p><p class=\"editor-paragraph\">The final offered salary will be based on several factors, including but not limited to the candidate's depth of experience, skill set, qualifications, and internal pay equity. Hiring at the top end of the range would not be typical, to allow for future meaningful salary growth in this position.&nbsp;</p>",
+    "workplaceType": "remote",
+    "workingTime": "full_time",
+    "experienceLevel": "senior",
+    "informationClause": "Informujemy, \u017ce administratorem danych jest Relativity Poland Sp. z o.o. z siedzib\u0105 w Krakowie przy al. Pokoju 5 (dalej jako \"administrator\"). Masz prawo do \u017c\u0105dania dost\u0119pu do swoich danych osobowych, ich sprostowania, usuni\u0119cia lub ograniczenia przetwarzania, prawo do wniesienia sprzeciwu wobec przetwarzania, a tak\u017ce prawo do przenoszenia danych oraz wniesienia skargi do organu nadzorczego. Dane osobowe przetwarzane b\u0119d\u0105 w celu realizacji procesu rekrutacji. Podanie danych w zakresie wynikaj\u0105cym z ustawy z dnia 26 czerwca 1974 r. Kodeks pracy jest obowi\u0105zkowe. W pozosta\u0142ym zakresie podanie danych jest dobrowolne. Odmowa podania danych obowi\u0105zkowych mo\u017ce skutkowa\u0107 brakiem mo\u017cliwo\u015bci przeprowadzenia procesu rekrutacji. Administrator przetwarza dane obowi\u0105zkowe na podstawie ci\u0105\u017c\u0105cego na nim obowi\u0105zku prawnego, za\u015b w zakresie danych dodatkowych podstaw\u0105 przetwarzania jest zgoda. Dane osobowe b\u0119d\u0105 przetwarzane do czasu zako\u0144czenia post\u0119powania rekrutacyjnego i przez okres mo\u017cliwo\u015bci dochodzenia ewentualnych roszcze\u0144, a w przypadku wyra\u017cenia zgody na udzia\u0142 w przysz\u0142ych post\u0119powaniach rekrutacyjnych - do czasu wycofania tej zgody. Zgoda na przetwarzanie danych osobowych mo\u017ce zosta\u0107 wycofana w dowolnym momencie. Odbiorc\u0105 danych jest serwis Just Join IT oraz inne podmioty, kt\u00f3rym powierzyli\u015bmy przetwarzanie danych w zwi\u0105zku z rekrutacj\u0105.",
+    "lastPublishedAt": "2025-10-02T13:50:30.61372Z",
+    "hiringCompany": {
+        "name": "Relativity",
+        "url": "https://www.relativity.com/",
+        "size": "501+",
+        "shortName": "Relativity",
+        "logoUrl": "https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png?1560434375",
+        "logoUrlThumb": "https://imgproxy.justjoinit.tech/sgtJGGNB2V_cpU_EhIIVAkyKsoZ7jp_3ioYOoGzQk4Y/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png",
+        "type": null
+    },
+    "apply": {
+        "url": "https://kcura.wd1.myworkdayjobs.com/en-US/External_Career_Site/details/Principal-Engineer-Cloud-Compute_25-0385?locationCountry=131d5ac7e3ee4d7b962bdc96e498e412&Department=7bed5b91bd2c1001025de2989f360001&Department=7bed5b91bd2c1001025de5012e620001",
+        "email": null
+    },
+    "company": {
+        "id": "9d28bd31-e8a8-465c-a2d9-116ef518a139",
+        "name": "Relativity",
+        "pipeDriveOwner": "Karol Gutowski",
+        "customerSuccessFullName": "Beata Dulba"
+    },
+    "publicTags": [],
+    "categories": [
+        {
+            "key": "python"
+        }
+    ],
+    "requirements": [
+        {
+            "skillId": "2846c4d8-a163-4622-b951-f133daac3115",
+            "skillName": "KEDA",
+            "level": 4,
+            "ordinal": 2,
+            "required": true
+        },
+        {
+            "skillId": "619adfc8-1092-4c67-98d4-acdf85652f98",
+            "skillName": "Go",
+            "level": 4,
+            "ordinal": 6,
+            "required": true
+        },
+        {
+            "skillId": "7d5d2d16-c4c5-4a40-99e0-accb463b4ab3",
+            "skillName": "Azure",
+            "level": 4,
+            "ordinal": 4,
+            "required": true
+        },
+        {
+            "skillId": "ac51bb7f-dc82-4fe4-b1d6-d0c09846332e",
+            "skillName": "Kubernetes",
+            "level": 5,
+            "ordinal": 1,
+            "required": true
+        },
+        {
+            "skillId": "cbf840b4-d5b0-4c7f-825a-8a47830dcfe9",
+            "skillName": "Temporal",
+            "level": 4,
+            "ordinal": 3,
+            "required": true
+        },
+        {
+            "skillId": "e07ae37c-51da-4b35-b067-0e7f95d61039",
+            "skillName": "Python",
+            "level": 4,
+            "ordinal": 7,
+            "required": true
+        },
+        {
+            "skillId": "f301b3fd-0e2b-4042-83f8-e7fffc484cf2",
+            "skillName": "Software Engineering",
+            "level": 5,
+            "ordinal": 0,
+            "required": true
+        },
+        {
+            "skillId": "ff1e72e9-d37e-4841-aa7c-e59f1c0301f2",
+            "skillName": "Apache Spark",
+            "level": 4,
+            "ordinal": 5,
+            "required": true
+        }
+    ],
+    "locations": [
+        {
+            "id": "16a3a059-81a3-4449-a2d6-6eba13b28556",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Krak\u00f3w",
+            "geoCoordinates": {
+                "latitude": 50.06465009999999,
+                "longitude": 19.9449799
+            }
+        },
+        {
+            "id": "5c74b4da-66f5-4f41-9b48-e9e11dc9c89d",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Katowice",
+            "geoCoordinates": {
+                "latitude": 50.26489189999999,
+                "longitude": 19.0237815
+            }
+        },
+        {
+            "id": "2214c0f6-183b-47be-b965-3c5826a8afbe",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Bydgoszcz",
+            "geoCoordinates": {
+                "latitude": 53.12348040000001,
+                "longitude": 18.0084378
+            }
+        },
+        {
+            "id": "3abc8db2-24e6-4d60-8930-5f0e02be0ea6",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Bia\u0142ystok",
+            "geoCoordinates": {
+                "latitude": 53.13248859999999,
+                "longitude": 23.1688403
+            }
+        },
+        {
+            "id": "b5c22dfc-0783-4aa6-a38c-d41889a0c871",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Wroc\u0142aw",
+            "geoCoordinates": {
+                "latitude": 51.10929480000001,
+                "longitude": 17.0386019
+            }
+        },
+        {
+            "id": "0f23b20c-9fd2-47ba-bf7e-8dd730dc71ea",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Warszawa",
+            "geoCoordinates": {
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        },
+        {
+            "id": "f9ade2b2-7448-4571-bcd6-44f4772c9955",
+            "countryCode": "PL",
+            "street": "-",
+            "city": "Gda\u0144sk",
+            "geoCoordinates": {
+                "latitude": 54.35202520000001,
+                "longitude": 18.6466384
+            }
+        }
+    ],
+    "employmentTypes": [
+        {
+            "type": "permanent",
+            "currency": "PLN",
+            "amountType": "gross",
+            "currencySource": "original",
+            "salary": {
+                "from": 394000,
+                "to": 592000,
+                "unit": "year"
+            },
+            "order": null
+        }
+    ]
+}

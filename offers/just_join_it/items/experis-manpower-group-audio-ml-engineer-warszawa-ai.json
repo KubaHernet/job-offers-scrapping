@@ -1,0 +1,92 @@
+{
+    "jobBoard": "justjoinit",
+    "id": "5083bbb0-0e84-4baa-b419-2c1db8022ce8",
+    "planKey": "enterprise_2023_Q2",
+    "title": "Audio ML Engineer",
+    "slug": "experis-manpower-group-audio-ml-engineer-warszawa-ai",
+    "shortTitle": "Audio ML Engineer",
+    "body": "<p class=\"ql-header-3\"><strong>Tasks:</strong></p><p><br></p><p class=\"editor-paragraph\">As an&nbsp;<strong>Audio ML Engineer</strong>, you will:</p><p><br></p><ul><li><p class=\"editor-paragraph\">Own the delivery of ML models, acting as a bridge between Applied Science and Engineering teams.</p></li><li><p class=\"editor-paragraph\">Architect and implement streaming audio services including ASR, TTS, VAD, and Diarization.</p></li><li><p class=\"editor-paragraph\">Validate hardware/software compatibility across development and production environments (e.g., GPU types, OS, dependencies, audio I/O, codecs).</p></li><li><p class=\"editor-paragraph\">Enforce rigorous testing protocols to ensure service-level awareness (stress/soak testing, quality preservation, latency consistency).</p></li><li><p class=\"editor-paragraph\">Manage releases of new model versions, including rollback capabilities and integration consistency across components.</p></li><li><p class=\"editor-paragraph\">Implement performance optimizations such as load management, dynamic batching, and caching.</p></li><li><p class=\"editor-paragraph\">Develop observability systems including structured logging, tracing, health checks, alerting, and actionable metric dashboards.</p></li></ul><p><br></p><p class=\"ql-header-3\"><strong>Requirements</strong></p><p><br></p><p class=\"editor-paragraph\"><strong>Must Have:</strong></p><p><br></p><ul><li><p class=\"editor-paragraph\">5+ years of experience in ML engineering, with a focus on audio and voice technologies.</p></li><li><p class=\"editor-paragraph\">Strong background in Generative AI (LLMs, TTS) and Voice-based Conversational AI.</p></li><li><p class=\"editor-paragraph\">Proven experience in:</p><ul><li><p class=\"editor-paragraph\">Service &amp; API engineering</p></li><li><p class=\"editor-paragraph\">Streaming implementation</p></li><li><p class=\"editor-paragraph\">Hardware/software compatibility validation</p></li><li><p class=\"editor-paragraph\">Stress testing and latency optimization</p></li><li><p class=\"editor-paragraph\">Model release management and rollback strategies</p></li><li><p class=\"editor-paragraph\">Integration impact assessment on end-to-end behavior</p></li></ul></li></ul><p><br></p><p class=\"editor-paragraph\"><strong>Nice to Have:</strong></p><p><br></p><ul><li><p class=\"editor-paragraph\">Experience with performance optimization techniques (load management, batching, caching).</p></li><li><p class=\"editor-paragraph\">Familiarity with observability tools and practices (logging, tracing, alerting, dashboards).</p></li></ul><p><br></p><p class=\"ql-header-3\"><strong>Offer</strong></p><p><br></p><ul><li><p class=\"editor-paragraph\">Medicover healthcare package</p></li><li><p class=\"editor-paragraph\">Multisport card</p></li><li><p class=\"editor-paragraph\">Access to an e-learning platform</p></li><li><p class=\"editor-paragraph\">Group life insurance</p></li></ul>",
+    "workplaceType": "remote",
+    "workingTime": "full_time",
+    "experienceLevel": "senior",
+    "informationClause": "Informujemy, \u017ce administratorem danych jest  ManpowerGroup S.A. z siedzib\u0105 w Warszawie, ul. Prosta 68 (dalej jako \"administrator\"). Masz prawo do \u017c\u0105dania dost\u0119pu do swoich danych osobowych, ich sprostowania, usuni\u0119cia lub ograniczenia przetwarzania, prawo do wniesienia sprzeciwu wobec przetwarzania, a tak\u017ce prawo do przenoszenia danych oraz wniesienia skargi do organu nadzorczego. Dane osobowe przetwarzane b\u0119d\u0105 w celu realizacji procesu rekrutacji. Podanie danych w zakresie wynikaj\u0105cym z ustawy z dnia 26 czerwca 1974 r. Kodeks pracy jest obowi\u0105zkowe. W pozosta\u0142ym zakresie podanie danych jest dobrowolne. Odmowa podania danych obowi\u0105zkowych mo\u017ce skutkowa\u0107 brakiem mo\u017cliwo\u015bci przeprowadzenia procesu rekrutacji. Administrator przetwarza dane obowi\u0105zkowe na podstawie ci\u0105\u017c\u0105cego na nim obowi\u0105zku prawnego, za\u015b w zakresie danych dodatkowych podstaw\u0105 przetwarzania jest zgoda. Dane osobowe b\u0119d\u0105 przetwarzane do czasu zako\u0144czenia post\u0119powania rekrutacyjnego i przez okres mo\u017cliwo\u015bci dochodzenia ewentualnych roszcze\u0144, a w przypadku wyra\u017cenia zgody na udzia\u0142 w przysz\u0142ych post\u0119powaniach rekrutacyjnych - do czasu wycofania tej zgody. Zgoda na przetwarzanie danych osobowych mo\u017ce zosta\u0107 wycofana w dowolnym momencie. Odbiorc\u0105 danych jest serwis Just Join IT oraz inne podmioty, kt\u00f3rym powierzyli\u015bmy przetwarzanie danych w zwi\u0105zku z rekrutacj\u0105.",
+    "lastPublishedAt": "2025-09-29T07:02:18.87151Z",
+    "hiringCompany": {
+        "name": "Experis Manpower Group",
+        "url": "https://www.experis.pl",
+        "size": "501+",
+        "shortName": "Experis Manpower Group",
+        "logoUrl": "https://public.justjoin.it/companies/logos/original/5e43519a9d231bd8412b7522aa84530b018d93a6.png?1580734351",
+        "logoUrlThumb": "https://imgproxy.justjoinit.tech/WGD_w7nqksMGBBpuz2PiNLlITKcSFFmoktInHWORpyg/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/5e43519a9d231bd8412b7522aa84530b018d93a6.png",
+        "type": null
+    },
+    "apply": {
+        "url": "https://www.experis.pl/pl/jobb/22049/audio-ml-engineer",
+        "email": null
+    },
+    "company": {
+        "id": "223ee01e-9409-40ea-804e-4e278889d975",
+        "name": "Experis Manpower Group",
+        "pipeDriveOwner": "Tomasz Prusko",
+        "customerSuccessFullName": "Dominika Jaworska"
+    },
+    "publicTags": [
+        {
+            "key": "remote_interview"
+        }
+    ],
+    "categories": [
+        {
+            "key": "ai"
+        }
+    ],
+    "requirements": [
+        {
+            "skillId": "00382a79-0c84-403c-912e-3a3e0b6ed149",
+            "skillName": "GenAI",
+            "level": 3,
+            "ordinal": 1,
+            "required": true
+        },
+        {
+            "skillId": "61e8438d-a513-4b3d-9981-5e7e17f011e0",
+            "skillName": "Voice-based Conversational AI",
+            "level": 3,
+            "ordinal": 2,
+            "required": true
+        },
+        {
+            "skillId": "75b67c5d-8bdc-4687-ad46-d6057446e44f",
+            "skillName": "ML",
+            "level": 4,
+            "ordinal": 0,
+            "required": true
+        }
+    ],
+    "locations": [
+        {
+            "id": "ec9bdf38-d9f7-438f-8444-f2eafbf1eff2",
+            "countryCode": "PL",
+            "street": "Warszawa",
+            "city": "Warszawa",
+            "geoCoordinates": {
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        }
+    ],
+    "employmentTypes": [
+        {
+            "type": "b2b",
+            "currency": "PLN",
+            "amountType": "net",
+            "currencySource": "original",
+            "salary": {
+                "from": 200,
+                "to": 300,
+                "unit": "hour"
+            },
+            "order": 1
+        }
+    ]
+}

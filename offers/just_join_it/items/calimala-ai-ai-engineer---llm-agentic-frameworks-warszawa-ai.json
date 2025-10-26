@@ -1,0 +1,135 @@
+{
+    "jobBoard": "justjoinit",
+    "id": "8ea3b671-c0f4-45d0-95e8-19f67ee86bad",
+    "planKey": "enterprise_2025_nolimit",
+    "title": "AI Engineer \u2013 LLM & Agentic Frameworks",
+    "slug": "calimala-ai-ai-engineer---llm-agentic-frameworks-gdansk-ai",
+    "shortTitle": "AI Engineer \u2013 LLM & Agentic Frameworks",
+    "body": "<p><strong>Overview</strong></p><p>At Calimala.ai, we are redefining the way companies hire top AI talent through our innovative AI-driven hiring platform and expert recruitment services. Our client, a tech startup based in the UAE\u00a0is seeking an experienced\u00a0<em>AI Engineer \u2013 LLM &amp; Agentic Frameworks</em>\u00a0to lead the development and integration of advanced language models.\u00a0The ideal candidate has hands-on experience working with both closed-source LLMs (e.g., ChatGPT) and open-source LLMs (e.g., Llama, DeepSeek), and understands how to architect, train, and fine-tune these models to meet diverse business needs. You should be able to determine the best approach\u2014third-party APIs versus in-house hosting\u2014and design systems where multiple LLM outputs can seamlessly interact to solve complex tasks, similar to frameworks like Goose.</p><p>If you are passionate about generative AI, keep track of the latest innovations, and know how to transform those insights into real-world products, we\u2019d love to hear from you.</p><p><br></p><p><strong>Key Responsibilities</strong></p><p>LLM Development &amp; Integration</p><ul><li>Evaluate and integrate closed-source LLM APIs (e.g., ChatGPT) as well as deploy open-source LLMs (e.g., Llama, DeepSeek) in production environments.</li><li>Determine when to use hosted APIs versus self-managed models for cost, scalability, and performance considerations.</li></ul><p>Agentic Frameworks &amp; Architecture</p><ul><li>Develop and maintain agentic frameworks in which model outputs feed into subsequent prompts or workflows (e.g., Goose-like systems).</li><li>Ensure robust pipeline orchestration where different AI components can interact efficiently and effectively.</li></ul><p>Model Training &amp; Fine-Tuning</p><ul><li>Perform fine-tuning or training on open frameworks, optimizing LLMs for specific tasks or datasets.</li><li>Define criteria to decide when and how to fine-tune, balancing performance gains with resource constraints.</li></ul><p>Scalability &amp; Performance</p><ul><li>Architect scalable and fault-tolerant solutions for high-load environments, including containerization and microservices.</li><li>Collaborate with DevOps to set up CI/CD pipelines, load testing, and performance monitoring.</li></ul><p>Innovation &amp; Best Practices</p><ul><li>Stay updated on cutting-edge research and best practices in the generative AI domain, and identify how new developments can be integrated into existing products.</li><li>Document processes, create internal knowledge repositories, and mentor junior engineers on AI/ML best practices.</li></ul><p>Collaboration &amp; Product Integration</p><ul><li>Work closely with Product, Data, and Engineering teams to align AI solutions with overall product goals.</li><li>Communicate complex technical concepts to both technical and non-technical stakeholders, ensuring clarity and shared understanding.</li></ul><p><br></p><p><strong>Requirements and Qualifications</strong></p><p>Technical Expertise</p><ul><li>Academic Background: Bachelor\u2019s or Master\u2019s degree in Computer Science, Machine Learning, or a related field (or equivalent experience).</li><li>LLM Experience: Proven experience with closed-source LLMs (e.g., ChatGPT) and open-source alternatives (e.g., Llama, DeepSeek).</li><li>Agentic Systems: Familiarity with Goose-like frameworks or other solutions enabling multi-step model interactions.</li><li>Training &amp; Fine-Tuning: Understanding of standard ML/DL frameworks (e.g., PyTorch, TensorFlow) and when to apply training vs. fine-tuning.</li><li>Deployment &amp; Hosting: Proficiency in cloud services (AWS, GCP, Azure) and containerization (Docker, Kubernetes) for deploying models at scale.</li></ul><p>Problem-Solving &amp; Innovation</p><ul><li>Analytical Mindset: Strong problem-solving skills with an aptitude for debugging complex issues in distributed or multi-model setups.</li><li>Forward-Thinking: Ability to keep up with latest trends in AI and incorporate advanced techniques into product development.</li></ul><p>Collaboration &amp; Communication</p><ul><li>Team Player: Excellent interpersonal and communication skills; proven track record of working in cross-functional teams.</li><li>Documentation: Ability to create clear technical documentation and frameworks for knowledge sharing.</li></ul><p>Preferred Additional Skills</p><ul><li>Experience with data engineering pipelines and ETL processes.</li><li>Knowledge of MLOps practices, including model versioning and monitoring.</li></ul><p><br></p><p><strong>Why You Should Apply</strong></p><ul><li>Pioneering AI Products: Contribute to a startup dedicated to cutting-edge generative AI and agentic frameworks.</li><li>Dynamic Environment: Grow your skills in a fast-paced setting that values innovation and experimentation.</li><li>Impactful Work: Help shape the next generation of AI-driven products that solve real-world challenges.</li><li>Collaborative Team: Join a diverse group of talented professionals who value transparency and mutual respect.</li></ul>",
+    "workplaceType": "remote",
+    "workingTime": "full_time",
+    "experienceLevel": "senior",
+    "informationClause": "Please be informed that the data controller is Calimala Limited (hereinafter \"controller\"). You have the right to request access to your personal data, their rectification, erasure or restriction of processing, the right to object to processing, as well as the right to data portability and to lodge a complaint to the supervisory authority. Personal data will be processed for the purpose of the recruitment process. Provision of data to the extent resulting from the Act of 26 June 1974 Labour Code is mandatory. In the remaining scope, providing data is voluntary. Refusal to provide mandatory data may result in the impossibility to carry out the recruitment process. The Administrator processes mandatory data on the basis of a legal obligation incumbent upon him/her, while with regard to additional data, the basis for processing is consent. Personal data will be processed until the recruitment procedure is completed and for the period of the possibility of asserting potential claims, and in the case of consent to participate in future recruitment procedures - until the withdrawal of such consent. Consent to the processing of personal data can be withdrawn at any time. The recipient of the data is the Just Join IT service and other entities to whom we have entrusted the processing of data in connection with recruitment.",
+    "lastPublishedAt": "2025-08-29T05:20:59.142829Z",
+    "hiringCompany": {
+        "name": "Calimala.ai",
+        "url": "https://calimala.ai/",
+        "size": "1-10",
+        "shortName": "Calimala.ai",
+        "logoUrl": "https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/f6ab887c-eb1b-492c-8233-8347f5ad4425.png",
+        "logoUrlThumb": "https://imgproxy.justjoinit.tech/bGhrTRmo5gou8F-S40IdaWugG3AEaQcC7Ji9esjIMwM/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/f6ab887c-eb1b-492c-8233-8347f5ad4425.png",
+        "type": null
+    },
+    "apply": {
+        "url": "https://app.calimala.ai/job_offers/63572?utm_source=justjoinit",
+        "email": null
+    },
+    "company": {
+        "id": "c1c8c672-75e1-4d22-84a0-0a0a90374062",
+        "name": "Calimala.ai",
+        "pipeDriveOwner": "Marian Cichosz",
+        "customerSuccessFullName": "Beata Dulba"
+    },
+    "publicTags": [
+        {
+            "key": "open_to_hire_ukrainians"
+        },
+        {
+            "key": "remote_interview"
+        }
+    ],
+    "categories": [
+        {
+            "key": "ai"
+        }
+    ],
+    "requirements": [
+        {
+            "skillId": "79ab840c-3352-4267-a2c4-d9aa5e6026fc",
+            "skillName": "Llama",
+            "level": 5,
+            "ordinal": 0,
+            "required": true
+        },
+        {
+            "skillId": "7b21e16d-769c-4d74-b73a-fb77e9796944",
+            "skillName": "ChatGPT",
+            "level": 5,
+            "ordinal": 1,
+            "required": true
+        },
+        {
+            "skillId": "cd063168-0dd8-480f-ab10-697721e01391",
+            "skillName": "DeepSeek",
+            "level": 5,
+            "ordinal": 2,
+            "required": true
+        }
+    ],
+    "locations": [
+        {
+            "id": "0f6da821-723e-4192-9398-014c0f998205",
+            "countryCode": "PL",
+            "street": "Remote",
+            "city": "Warszawa",
+            "geoCoordinates": {
+                "latitude": 52.2296756,
+                "longitude": 21.0122287
+            }
+        },
+        {
+            "id": "76f47361-71f5-416a-ac91-fe021b885bd2",
+            "countryCode": "PL",
+            "street": "Remote",
+            "city": "Krak\u00f3w",
+            "geoCoordinates": {
+                "latitude": 50.06465009999999,
+                "longitude": 19.9449799
+            }
+        },
+        {
+            "id": "048b8d23-4a06-403d-859e-dd7ae6c2f060",
+            "countryCode": "PL",
+            "street": "Remote",
+            "city": "Wroc\u0142aw",
+            "geoCoordinates": {
+                "latitude": 51.10929480000001,
+                "longitude": 17.0386019
+            }
+        },
+        {
+            "id": "7d0601ab-b7f4-48e5-8ecb-343bbf27a475",
+            "countryCode": "PL",
+            "street": "Remote",
+            "city": "Pozna\u0144",
+            "geoCoordinates": {
+                "latitude": 52.40567859999999,
+                "longitude": 16.9312766
+            }
+        },
+        {
+            "id": "64ccb24b-c78d-4ea4-aacb-bb8585630d23",
+            "countryCode": "PL",
+            "street": "Remote",
+            "city": "Gda\u0144sk",
+            "geoCoordinates": {
+                "latitude": 54.35202520000001,
+                "longitude": 18.6466384
+            }
+        }
+    ],
+    "employmentTypes": [
+        {
+            "type": "b2b",
+            "currency": "PLN",
+            "amountType": "net",
+            "currencySource": "original",
+            "salary": {
+                "from": 30000,
+                "to": 60000,
+                "unit": "month"
+            },
+            "order": 1
+        }
+    ]
+}
