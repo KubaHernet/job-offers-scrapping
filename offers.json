@@ -1,64 +1,67 @@
 [
     {
-        "guid": "1e52ed91-e1bd-4f05-a012-3fbef1f43414",
-        "slug": "elevenlabs-research-engineer-warszawa-ai",
-        "title": "Research Engineer",
+        "guid": "b648a719-4b04-4fa5-87c6-681f4a462582",
+        "slug": "yard-corporate-regional-field-cto-poland-remote--ai",
+        "title": "Regional Field CTO",
         "requiredSkills": [
-            "Machine Learning",
-            "Research"
+            "Gen AI"
         ],
         "niceToHaveSkills": null,
         "workplaceType": "remote",
         "workingTime": "full_time",
-        "experienceLevel": "senior",
+        "experienceLevel": "c_level",
         "employmentTypes": [
             {
-                "from": 550000,
-                "to": 900000,
-                "currency": "pln",
-                "type": "permanent",
+                "from": 150000,
+                "to": 220000,
+                "currency": "usd",
+                "type": "b2b",
                 "unit": "year",
-                "gross": true,
-                "fromChf": 120083.7,
-                "fromEur": 129023.4,
-                "fromGbp": 112259.95,
-                "fromPln": 550000,
-                "fromUsd": 149865.65,
-                "toChf": 196500.6,
-                "toEur": 211129.2,
-                "toGbp": 183698.1,
-                "toPln": 900000,
-                "toUsd": 245234.7
+                "gross": false,
+                "fromChf": 119359.65,
+                "fromEur": 129015.6,
+                "fromGbp": 112731.15,
+                "fromPln": 547612.5,
+                "fromUsd": 150000,
+                "toChf": 175060.82,
+                "toEur": 189222.88,
+                "toGbp": 165339.02,
+                "toPln": 803165,
+                "toUsd": 220000
             }
         ],
         "categoryId": 25,
         "multilocation": [
             {
-                "city": "Warszawa",
-                "slug": "elevenlabs-research-engineer-warszawa-ai",
-                "street": "gen. Micha\u0142a Tokarzewskiego-Karaszewicza 1",
-                "latitude": 52.2296756,
-                "longitude": 21.0122287
+                "city": "Poland (Remote)",
+                "slug": "yard-corporate-regional-field-cto-poland-remote--ai",
+                "street": "Poland",
+                "latitude": 51.919438,
+                "longitude": 19.145136
             }
         ],
-        "city": "Warszawa",
-        "street": "gen. Micha\u0142a Tokarzewskiego-Karaszewicza 1",
-        "latitude": "52.2296756",
-        "longitude": "21.0122287",
+        "city": "Poland (Remote)",
+        "street": "Poland",
+        "latitude": "51.9194380",
+        "longitude": "19.1451360",
         "remoteInterview": true,
-        "companyName": "ElevenLabs",
-        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/UZZEUUEDY7R5oYrUwxq_elc5GaivB8X2LQ2TuZj7Q6w/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/238b80df-3ab2-4217-a5e5-f153377cb4c7.png",
-        "publishedAt": "2025-10-11T14:00:16.730Z",
-        "lastPublishedAt": "2025-07-28T13:34:45.297Z",
-        "expiredAt": "2025-10-15T21:59:59.999Z",
+        "companyName": "Yard Corporate",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/MELgCvkkNAkK6UZU_EcI3mZ99yIp64bizwrkEjS_vwE/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/ea86064d8b886419dfe629864667675ed7928c2d.png",
+        "publishedAt": "2025-10-22T10:40:28.156Z",
+        "lastPublishedAt": "2025-10-22T10:40:28.156Z",
+        "expiredAt": "2025-11-21T10:40:28.156Z",
         "openToHireUkrainians": false,
         "languages": [
             {
                 "code": "en",
                 "level": "c1"
+            },
+            {
+                "code": "pl",
+                "level": "c1"
             }
         ],
-        "applyMethod": "external",
+        "applyMethod": "form",
         "isSuperOffer": false,
         "promotedPosition": null,
         "promotedKeyFilters": []
@@ -69,8 +72,8 @@
         "title": "AI Engineer \u2013 LLM & Agentic Frameworks",
         "requiredSkills": [
             "ChatGPT",
-            "Llama",
-            "DeepSeek"
+            "DeepSeek",
+            "Llama"
         ],
         "niceToHaveSkills": null,
         "workplaceType": "remote",
@@ -84,16 +87,16 @@
                 "type": "b2b",
                 "unit": "month",
                 "gross": false,
-                "fromChf": 6550.02,
-                "fromEur": 7037.64,
-                "fromGbp": 6123.27,
+                "fromChf": 6538.92,
+                "fromEur": 7067.91,
+                "fromGbp": 6175.77,
                 "fromPln": 30000,
-                "fromUsd": 8174.49,
-                "toChf": 13100.04,
-                "toEur": 14075.28,
-                "toGbp": 12246.54,
+                "fromUsd": 8217.48,
+                "toChf": 13077.84,
+                "toEur": 14135.82,
+                "toGbp": 12351.54,
                 "toPln": 60000,
-                "toUsd": 16348.98
+                "toUsd": 16434.96
             }
         ],
         "categoryId": 25,
@@ -141,7 +144,7 @@
         "remoteInterview": true,
         "companyName": "Calimala.ai",
         "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/bGhrTRmo5gou8F-S40IdaWugG3AEaQcC7Ji9esjIMwM/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/f6ab887c-eb1b-492c-8233-8347f5ad4425.png",
-        "publishedAt": "2025-10-13T06:00:17.613Z",
+        "publishedAt": "2025-10-23T06:01:57.057Z",
         "lastPublishedAt": "2025-08-29T05:20:59.142Z",
         "expiredAt": "2025-11-27T19:59:59.999Z",
         "openToHireUkrainians": true,
@@ -161,8 +164,8 @@
         "slug": "relativity-director-ai-engineering-krakow-ai-087b4b6a",
         "title": "Director, AI Engineering",
         "requiredSkills": [
-            "AI",
             "GDPR",
+            "AI",
             "Machine Learning",
             "Leadership"
         ],
@@ -178,16 +181,16 @@
                 "type": "permanent",
                 "unit": "year",
                 "gross": true,
-                "fromChf": 93446.952,
-                "fromEur": 100403.664,
-                "fromGbp": 87358.652,
+                "fromChf": 93288.592,
+                "fromEur": 100835.516,
+                "fromGbp": 88107.652,
                 "fromPln": 428000,
-                "fromUsd": 116622.724,
-                "toChf": 140170.428,
-                "toEur": 150605.496,
-                "toGbp": 131037.978,
+                "fromUsd": 117236.048,
+                "toChf": 139932.888,
+                "toEur": 151253.274,
+                "toGbp": 132161.478,
                 "toPln": 642000,
-                "toUsd": 174934.086
+                "toUsd": 175854.072
             }
         ],
         "categoryId": 25,
@@ -249,77 +252,11 @@
         "remoteInterview": false,
         "companyName": "Relativity",
         "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/sgtJGGNB2V_cpU_EhIIVAkyKsoZ7jp_3ioYOoGzQk4Y/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/1c13dbb156ef125fcadd4db5d93580e5d67ef3cd.png",
-        "publishedAt": "2025-10-12T14:00:16.764Z",
+        "publishedAt": "2025-10-22T14:01:32.400Z",
         "lastPublishedAt": "2025-10-02T13:47:17.911Z",
         "expiredAt": "2025-11-01T13:47:17.911Z",
         "openToHireUkrainians": false,
         "languages": [],
-        "applyMethod": "external",
-        "isSuperOffer": false,
-        "promotedPosition": null,
-        "promotedKeyFilters": []
-    },
-    {
-        "guid": "aee7059e-f181-437f-adb7-6de65a1679d5",
-        "slug": "optiveum-research-team-leader---llm-warszawa-ai",
-        "title": "Research Team Leader - LLM",
-        "requiredSkills": [
-            "AI",
-            "CLIP",
-            "SAM",
-            "PyTorch"
-        ],
-        "niceToHaveSkills": null,
-        "workplaceType": "remote",
-        "workingTime": "full_time",
-        "experienceLevel": "senior",
-        "employmentTypes": [
-            {
-                "from": 8000,
-                "to": 12000,
-                "currency": "eur",
-                "type": "permanent",
-                "unit": "month",
-                "gross": true,
-                "fromChf": 7445.672,
-                "fromEur": 8000,
-                "fromGbp": 6960.568,
-                "fromPln": 34102.28,
-                "fromUsd": 9292.28,
-                "toChf": 11168.508,
-                "toEur": 12000,
-                "toGbp": 10440.852,
-                "toPln": 51153.42,
-                "toUsd": 13938.42
-            }
-        ],
-        "categoryId": 25,
-        "multilocation": [
-            {
-                "city": "Warszawa",
-                "slug": "optiveum-research-team-leader---llm-warszawa-ai",
-                "street": "Krucza 16/22",
-                "latitude": 52.2260597,
-                "longitude": 21.0191371
-            }
-        ],
-        "city": "Warszawa",
-        "street": "Krucza 16/22",
-        "latitude": "52.2260597",
-        "longitude": "21.0191371",
-        "remoteInterview": true,
-        "companyName": "Optiveum",
-        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/TU3OBPEExbLtmD8DjYH-QlZD9poK-qnMiSSUeXwzFiQ/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/fd83039c6251d97e18ca49319813fbd1c0e8ab7c.jpg",
-        "publishedAt": "2025-10-10T09:00:17.623Z",
-        "lastPublishedAt": "2025-09-24T09:26:13.761Z",
-        "expiredAt": "2025-10-25T09:04:28.107Z",
-        "openToHireUkrainians": false,
-        "languages": [
-            {
-                "code": "en",
-                "level": "c1"
-            }
-        ],
         "applyMethod": "external",
         "isSuperOffer": false,
         "promotedPosition": null,
@@ -331,8 +268,8 @@
         "title": "Audio ML Engineer",
         "requiredSkills": [
             "ML",
-            "Voice-based Conversational AI",
-            "GenAI"
+            "GenAI",
+            "Voice-based Conversational AI"
         ],
         "niceToHaveSkills": null,
         "workplaceType": "remote",
@@ -346,16 +283,16 @@
                 "type": "b2b",
                 "unit": "hour",
                 "gross": false,
-                "fromChf": 43.6668,
-                "fromEur": 46.9176,
-                "fromGbp": 40.8218,
+                "fromChf": 43.5928,
+                "fromEur": 47.1194,
+                "fromGbp": 41.1718,
                 "fromPln": 200,
-                "fromUsd": 54.4966,
-                "toChf": 65.5002,
-                "toEur": 70.3764,
-                "toGbp": 61.2327,
+                "fromUsd": 54.7832,
+                "toChf": 65.3892,
+                "toEur": 70.6791,
+                "toGbp": 61.7577,
                 "toPln": 300,
-                "toUsd": 81.7449
+                "toUsd": 82.1748
             }
         ],
         "categoryId": 25,
@@ -375,7 +312,7 @@
         "remoteInterview": true,
         "companyName": "Experis Manpower Group",
         "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/WGD_w7nqksMGBBpuz2PiNLlITKcSFFmoktInHWORpyg/h:200/w:200/plain/https://public.justjoin.it/companies/logos/original/5e43519a9d231bd8412b7522aa84530b018d93a6.png",
-        "publishedAt": "2025-10-07T07:00:25.754Z",
+        "publishedAt": "2025-10-23T07:02:06.414Z",
         "lastPublishedAt": "2025-09-29T07:02:18.871Z",
         "expiredAt": "2025-10-29T07:02:18.871Z",
         "openToHireUkrainians": false,
@@ -386,6 +323,109 @@
             }
         ],
         "applyMethod": "external",
+        "isSuperOffer": false,
+        "promotedPosition": null,
+        "promotedKeyFilters": []
+    },
+    {
+        "guid": "03767a26-ab07-4438-a054-126d20ed829a",
+        "slug": "omnilexia-staff-backend-engineer-with-devops-skills-warszawa-python",
+        "title": "Staff Backend Engineer with DevOps skills",
+        "requiredSkills": [
+            "REST API",
+            "AWS",
+            "Python",
+            "Django Rest Framework",
+            "DevOps",
+            "PostgreSQL",
+            "Terraform",
+            "Microsoft Azure Cloud",
+            "AI"
+        ],
+        "niceToHaveSkills": null,
+        "workplaceType": "remote",
+        "workingTime": "full_time",
+        "experienceLevel": "senior",
+        "employmentTypes": [
+            {
+                "from": 35000,
+                "to": 50000,
+                "currency": "pln",
+                "type": "b2b",
+                "unit": "month",
+                "gross": false,
+                "fromChf": 7628.74,
+                "fromEur": 8245.895,
+                "fromGbp": 7205.065,
+                "fromPln": 35000,
+                "fromUsd": 9587.06,
+                "toChf": 10898.2,
+                "toEur": 11779.85,
+                "toGbp": 10292.95,
+                "toPln": 50000,
+                "toUsd": 13695.8
+            }
+        ],
+        "categoryId": 5,
+        "multilocation": [
+            {
+                "city": "Warszawa",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-warszawa-python",
+                "street": "plac Defilad 1",
+                "latitude": 52.2322286,
+                "longitude": 21.0082046
+            },
+            {
+                "city": "Gda\u0144sk",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-gdansk-python",
+                "street": "D\u0142ugi Targ 1",
+                "latitude": 54.3483908,
+                "longitude": 18.6527627
+            },
+            {
+                "city": "Wroc\u0142aw",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-wroclaw-python",
+                "street": "Rynek, 50-996 Wroc\u0142aw",
+                "latitude": 51.1106992,
+                "longitude": 17.0323662
+            },
+            {
+                "city": "Krak\u00f3w",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-krakow-python",
+                "street": "Rynek G\u0142\u00f3wny 1",
+                "latitude": 50.0613845,
+                "longitude": 19.93636
+            },
+            {
+                "city": "Pozna\u0144",
+                "slug": "omnilexia-staff-backend-engineer-with-devops-skills-poznan-python",
+                "street": "Stary Rynek, 61-772 Pozna\u0144",
+                "latitude": 52.4088499,
+                "longitude": 16.9337748
+            }
+        ],
+        "city": "Warszawa",
+        "street": "plac Defilad 1",
+        "latitude": "52.2322286",
+        "longitude": "21.0082046",
+        "remoteInterview": true,
+        "companyName": "Omnilexia",
+        "companyLogoThumbUrl": "https://imgproxy.justjoinit.tech/n34KsNo_5qM_JbFVdQfkOfT4EzvjP3LF0I5R28grePw/h:200/w:200/plain/https://s3.eu-west-1.amazonaws.com/images.justjoin.it/justjoinit/company-logos/d0d12709-1d39-49f4-b1c2-9f619e38034f.png",
+        "publishedAt": "2025-10-21T12:08:00.337Z",
+        "lastPublishedAt": "2025-10-21T12:08:00.337Z",
+        "expiredAt": "2025-11-20T12:08:00.337Z",
+        "openToHireUkrainians": true,
+        "languages": [
+            {
+                "code": "pl",
+                "level": "c1"
+            },
+            {
+                "code": "en",
+                "level": "b2"
+            }
+        ],
+        "applyMethod": "form",
         "isSuperOffer": false,
         "promotedPosition": null,
         "promotedKeyFilters": []

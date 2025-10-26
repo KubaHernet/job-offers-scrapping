@@ -1,34 +1,11 @@
 import requests
 import json
+import just_join_it.just_join_it_client as just_join_it_client
+from utils.collection_utils import remove_duplicates
 
-base_url = "https://justjoin.it/api/base/v2/user-panel/offers/by-cursor"
+offers = just_join_it_client.get_offers()
 
-params = {
-    "orderBy": "DESC",
-    "sortBy": "salary",
-    "categories[]": [5, 25],
-    "itemsCount": 5,
-    "remoteWorkOptions[]": "remote"
-}
-
-def remove_duplicates(items, selector):
-    seen = set()
-    unique_items = []
-    for item in items:
-        key = selector(item)
-        if key and key not in seen:
-            unique_items.append(item)
-            seen.add(key)
-    return unique_items
-
-response = requests.get(base_url, params=params)
-
-print(f"Requested URL: {response.url}")
-
-
-if response.status_code == 200:
-    data = response.json()
-    offers = data.get("data", [])
+if len(offers) > 0:
     unique_offers =   remove_duplicates(offers, lambda x: x.get("guid"))
 
     with open("offers.json", "w") as file:
@@ -36,4 +13,4 @@ if response.status_code == 200:
 
     print("Data saved to offers.json")
 else:
-    print(f"Failed to retrieve data: {response.status_code}")
+    print("Failed to retrieve data or no offers found.")
